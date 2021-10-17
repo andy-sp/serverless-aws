@@ -20,6 +20,7 @@ Para a execução do projeto desenvolvido durante a aula foram utilizadas as seg
 :heavy_check_mark: AWS DynamoDB.  
 :heavy_check_mark: AWS API Gateway.  
 :heavy_check_mark: AWS CloudFormation.  
-:heavy_check_mark: Visual Studio Code.  
+:heavy_check_mark: Node.js.  
+:heavy_check_mark: Visual Studio Code.    
 
 Segue também o arquivo contendo a etapas do Projeto: [Etapas.md](https://github.com/andy-sp/serverless-aws/blob/master/ETAPAS.md)
