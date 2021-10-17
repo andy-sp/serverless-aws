@@ -1,8 +1,8 @@
-<h2>Digital Innovation: GFT Java & AWS Developer - Infraestrutura Como Código com Serverless Framework na AWS</h2>
+<h2>:desktop_computer::dart: Digital Innovation: GFT Java & AWS Developer - Infraestrutura Como Código com Serverless Framework na AWS :cloud::computer: </h2>
 
-Neste projeto da Live Coding da DIO no dia 29/07/2021, criamos uma infraestrutra em nuvem utilizando os conceitos de Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework.
+Neste projeto da Live Coding da DIO no dia 29/07/2021, criamos uma infraestrutura em nuvem utilizando os conceitos de Serverless e Infraestrutura como Código (IaC) utilizando o Serverless Framework.
 
-Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
+Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos: :floppy_disk:
 
 * Pré requisitos 
 * Setup Inicial
@@ -16,18 +16,10 @@ Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
 
 Para a execução do projeto desenvolvido durante a aula foram utilizadas as seguintes tecnologias:
 
-* AWS Lambda.
-* AWS DynamoDB.
-* AWS API Gateway.
-* AWS CloudFormation.
-* Visual Studio Code.
-* Intellj IDEA Community Edition ou sua IDE favorita.
-* Muita vontade de aprender e compartilhar conhecimento :)
+:heavy_check_mark: AWS Lambda.  
+:heavy_check_mark: AWS DynamoDB.  
+:heavy_check_mark: AWS API Gateway.  
+:heavy_check_mark: AWS CloudFormation.  
+:heavy_check_mark: Visual Studio Code.  
 
-Segue também o arquivo contendo a etapas do Projeto:
-
-
-
-
-
-
+Segue também o arquivo contendo a etapas do Projeto: [Etapas.md](https://github.com/andy-sp/serverless-aws/blob/master/ETAPAS.md)
